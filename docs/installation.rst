@@ -32,13 +32,13 @@ You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/phillipsj/poshpy
+    $ git clone git://github.com/blueghostlabs/poshpy
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl -OJL https://github.com/phillipsj/poshpy/tarball/master
+    $ curl -OJL https://github.com/blueghostlabs/poshpy/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -46,5 +46,5 @@ Once you have a copy of the source, you can install it with:
 
     $ pip install .
 
-.. _Github repo: https://github.com/phillipsj/poshpy
-.. _tarball: https://github.com/phillipsj/poshpy/tarball/master
+.. _Github repo: https://github.com/blueghostlabs/poshpy
+.. _tarball: https://github.com/blueghostlabs/poshpy/tarball/master
