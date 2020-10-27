@@ -62,3 +62,4 @@ def execute_file(file_path):
     """
     completed = subprocess.run(["powershell", "-File", file_path], capture_output=True)
     return PowerShellCompleted(completed.returncode, completed.stdout, completed.stderr)
+
