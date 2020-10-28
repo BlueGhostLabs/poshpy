@@ -6,3 +6,4 @@ History
 ------------------
 
 * First release on PyPI.
+* Support for executing PowerShell with the Command, EncodedCommand, and File options.

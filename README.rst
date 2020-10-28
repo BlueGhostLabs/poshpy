@@ -24,7 +24,7 @@ A Python package for working with PowerShell.
 Features
 --------
 
-* TODO
+* Ability to execute PowerShell with a Command, EncodedCommand, or File option using Python.
 
 Credits
 -------
