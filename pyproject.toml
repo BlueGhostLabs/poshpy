@@ -22,7 +22,7 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "*"
+python = ">=3.7"
 
 [tool.poetry.dev-dependencies]
 bumpversion = "*"
@@ -31,10 +31,10 @@ flake8 = "*"
 invoke = "*"
 isort = "*"
 pylint = "*"
-pytest = "*"
 sphinx = "*"
 tox = "*"
 yapf = "*"
+pytest-subprocess = "^1.0.0"
 
 
 
